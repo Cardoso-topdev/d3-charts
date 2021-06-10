@@ -1,3 +1,12 @@
+<div align="center">
+  <a href="https://d3-charts.netlify.app">
+    <img
+      alt="d3 charts react typescript."
+      src="d3-screen-shot-min.png"
+    />
+  </a>
+</div>
+
 # CRA-MHL
 ## A Professional Starter Create React App (CRA) with Must-Have Libraries (MHL) Template
 [![yarn version](https://badge.fury.io/js/cra-template-must-have-libraries.svg)](https://badge.fury.io/js/cra-template-must-have-libraries)
